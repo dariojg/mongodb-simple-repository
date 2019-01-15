@@ -1,5 +1,6 @@
-.swp
+*.swp
 .gradle/
 .idea/
 gradle/
 gradlew.bat
+/out
